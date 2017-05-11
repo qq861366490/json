@@ -1,0 +1,35 @@
+{
+    "status": 1,
+    "info": {
+        "id": "3",
+        "name": "六店通用￥5000代金券",
+        "price": "5000.00",
+        "new_price": "5000.00",
+        "description": "苏州\/无锡\/成都\/涪陵\/重庆\/开县金科大酒店六店通用5000元代金券",
+        "unit": null,
+        "express": null,
+        "adress": "苏州\/无锡\/成都\/涪陵\/重庆\/开县金科大酒店",
+        "favourable": null,
+        "banner_code": "59,60",
+        "banner": "http:\/\/jkh.jkhotel.com\/Uploads\/Picture\/2016-06-01\/574e35a1877ce.jpg,http:\/\/jkh.jkhotel.com\/Uploads\/Picture\/2016-06-01\/574e36462cb4f.jpg",
+        "face_code": "59",
+        "face_img": "http:\/\/jkh.jkhotel.com\/Uploads\/Picture\/2016-06-01\/574e35a1877ce.jpg",
+        "goods_detail_code": "61,45,46,47,48,50,52,55,54,53,51,58,56,57",
+        "html": null,
+        "goods_detail": "http:\/\/jkh.jkhotel.com\/Uploads\/Picture\/2016-06-01\/574e365093c0a.jpg,http:\/\/jkh.jkhotel.com\/Uploads\/Picture\/2016-06-01\/574e352209015.jpg,http:\/\/jkh.jkhotel.com\/Uploads\/Picture\/2016-06-01\/574e35222f272.jpg,http:\/\/jkh.jkhotel.com\/Uploads\/Picture\/2016-06-01\/574e352270010.jpg,http:\/\/jkh.jkhotel.com\/Uploads\/Picture\/2016-06-01\/574e3522bc4ca.jpg,http:\/\/jkh.jkhotel.com\/Uploads\/Picture\/2016-06-01\/574e353fbc6f7.jpg,http:\/\/jkh.jkhotel.com\/Uploads\/Picture\/2016-06-01\/574e35402008d.jpg,http:\/\/jkh.jkhotel.com\/Uploads\/Picture\/2016-06-01\/574e354168851.jpg,http:\/\/jkh.jkhotel.com\/Uploads\/Picture\/2016-06-01\/574e3540a1bc9.jpg,http:\/\/jkh.jkhotel.com\/Uploads\/Picture\/2016-06-01\/574e35406883e.jpg,http:\/\/jkh.jkhotel.com\/Uploads\/Picture\/2016-06-01\/574e353fdec4b.jpg,http:\/\/jkh.jkhotel.com\/Uploads\/Picture\/2016-06-01\/574e354e14a7e.jpg,http:\/\/jkh.jkhotel.com\/Uploads\/Picture\/2016-06-01\/574e354ce6757.jpg,http:\/\/jkh.jkhotel.com\/Uploads\/Picture\/2016-06-01\/574e354dea473.jpg",
+        "coin_get": null,
+        "sell_num": "11",
+        "leftnumber": "111",
+        "is_hot": "0",
+        "is_recommend": "0",
+        "cate_id": "1",
+        "type": "1",
+        "createtime": "1464743546",
+        "changetime": "1474441601",
+        "selltype": "1",
+        "status": "1",
+        "coinprice": null,
+        "overtime": "1"
+    }
+}
+
